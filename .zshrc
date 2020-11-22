@@ -110,4 +110,8 @@ alias wifi_password="security find-generic-password"
 alias unzip="7za x"
 alias untar="tar -xvf"
 alias renat="npx react-native"
+alias rcmd="R CMD BATCH"
+alias jupn="jupyter notebook"
+alias ip-addr="ifconfig | grep inet"
+
 export PATH="/usr/local/opt/m4/bin:$PATH"
