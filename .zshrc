@@ -73,6 +73,20 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
+#For compilers to find sqlite you may need to set:
+export LDFLAGS="-L/usr/local/opt/sqlite/lib"
+export CPPFLAGS="-I/usr/local/opt/sqlite/include"
+
+#If you need to have texinfo first in your PATH run:
+#echo 'export PATH="/usr/local/opt/texinfo/bin:$PATH"' >> ~/.zshrc
+
+# To use the DocBook package in your XML toolchain
+export XML_CATALOG_FILES="/usr/local/etc/xml/catalog"
+
+#If you need to have gnu-getopt first in your PATH run: >> nvim ~/.zshrc
+# GNU getopt (octave dependency)
+export PATH="/usr/local/opt/gnu-getopt/bin:$PATH"
+
 
 # Configuration for Android Studio
 export ANDROID_HOME=$HOME/Library/Android/sdk
@@ -80,7 +94,6 @@ export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
-
 
 # export MANPATH="/usr/local/man:$MANPATH"
 ZSH_DISABLE_COMPFIX="true"
@@ -93,6 +106,7 @@ ZSH_DISABLE_COMPFIX="true"
 # else
 #   export EDITOR='mvim'
 # fi
+
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
