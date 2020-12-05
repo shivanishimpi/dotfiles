@@ -127,5 +127,6 @@ alias renat="npx react-native"
 alias rcmd="R CMD BATCH"
 alias jupn="jupyter notebook"
 alias ip-addr="ifconfig | grep inet"
+alias lh="ls -d .?*"
 
 export PATH="/usr/local/opt/m4/bin:$PATH"
