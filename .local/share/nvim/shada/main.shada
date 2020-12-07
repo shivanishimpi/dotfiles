@@ -1,0 +1,239 @@
+Header with timestamp 2020-12-07T21:53:53:
+  % Key______  Value
+  + encoding   "utf-8"
+  + generator  "nvim"
+  + max_kbyte  10
+  + pid        3216
+  + version    "NVIM v0.4.4"
+Global mark with timestamp 2020-12-07T21:53:53:
+  % Key  Description  Value
+  + n    name         '0'
+  + f    file name    "/Users/shivani/.local/share/nvim/shada/main.shada"
+  + l    line number  1
+  + c    column       0
+Global mark with timestamp 2020-12-07T21:49:38:
+  % Key  Description  Value
+  + n    name         '1'
+  + f    file name    "/Users/shivani/.zcompdump-shivani’s MacBook Pro-5.7.1"
+  + l    line number  81
+  + c    column       0
+Global mark with timestamp 2020-12-07T21:36:41:
+  % Key  Description  Value
+  + n    name         '2'
+  + f    file name    "/Users/.localized"
+  + l    line number  1
+  + c    column       0
+Global mark with timestamp 2020-12-06T02:08:32:
+  % Key  Description  Value
+  + n    name         '3'
+  + f    file name    "/Users/shivani/.zshrc"
+  + l    line number  123
+  + c    column       14
+Global mark with timestamp 2020-12-06T01:32:59:
+  % Key  Description  Value
+  + n    name         '4'
+  + f    file name    "/Users/shivani/homebrew/.github/workflows/tests.yml"
+  + l    line number  197
+  + c    column       0
+Global mark with timestamp 2020-12-06T01:32:47:
+  % Key  Description  Value
+  + n    name         '5'
+  + f    file name    "/Users/shivani/homebrew/.github/workflows/docker.yml"
+  + l    line number  1
+  + c    column       0
+Global mark with timestamp 2020-12-06T01:30:39:
+  % Key  Description  Value
+  + n    name         '6'
+  + f    file name    "/Users/shivani/homebrew/.editorconfig"
+  + l    line number  1
+  + c    column       0
+Global mark with timestamp 2020-12-06T01:27:47:
+  % Key  Description  Value
+  + n    name         '7'
+  + f    file name    "/Users/shivani/.keras/keras.json"
+  + l    line number  1
+  + c    column       0
+Global mark with timestamp 2020-12-06T01:25:15:
+  % Key  Description  Value
+  + n    name         '8'
+  + f    file name    "/Users/shivani/.yarnrc"
+  + l    line number  1
+  + c    column       0
+Global mark with timestamp 2020-12-06T01:14:40:
+  % Key  Description  Value
+  + n    name         '9'
+  + f    file name    "/Users/shivani/.vscode/argv.json"
+  + l    line number  1
+  + c    column       0
+Register with timestamp 2020-11-16T14:08:58:
+  % Key  Description  Value
+  + n    name         '0'
+  + rc   contents     [")"]
+  + rw   block width  0
+  + rt   type         CHARACTERWISE
+  + ru   is_unnamed   FALSE
+Register with timestamp 2020-11-07T14:21:44:
+  % Key  Description  Value
+  + n    name         '-'
+  + rc   contents     [")"]
+  + rw   block width  0
+  + rt   type         CHARACTERWISE
+  + ru   is_unnamed   TRUE
+Jump with timestamp 2020-11-29T16:24:29:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/Documents/Acads/SemV/academicNotes/Microprocessor/Submissions/string-comparison.asm"
+  + l    line number  34
+  + c    column       1
+Jump with timestamp 2020-11-29T16:24:29:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/Documents/Acads/SemV/academicNotes/Microprocessor/Submissions/string-comparison.asm"
+  + l    line number  35
+  + c    column       0
+Jump with timestamp 2020-11-29T16:24:29:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/Documents/Acads/SemV/academicNotes/Microprocessor/Submissions/string-comparison.asm"
+  + l    line number  34
+  + c    column       1
+Jump with timestamp 2020-11-29T16:24:29:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/Documents/Acads/SemV/academicNotes/Microprocessor/Submissions/string-comparison.asm"
+  + l    line number  35
+  + c    column       0
+Jump with timestamp 2020-11-29T16:24:29:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/Documents/Acads/SemV/academicNotes/Microprocessor/Submissions/string-comparison.asm"
+  + l    line number  34
+  + c    column       1
+Jump with timestamp 2020-11-29T16:24:29:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/Documents/Acads/SemV/academicNotes/Microprocessor/Submissions/string-comparison.asm"
+  + l    line number  35
+  + c    column       0
+Jump with timestamp 2020-11-29T16:24:29:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/Documents/Acads/SemV/academicNotes/Microprocessor/Submissions/string-comparison.asm"
+  + l    line number  34
+  + c    column       1
+Jump with timestamp 2020-11-29T16:24:29:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/Documents/Acads/SemV/academicNotes/Microprocessor/Submissions/string-comparison.asm"
+  + l    line number  35
+  + c    column       0
+Search pattern with timestamp 2020-11-16T14:08:58:
+  % Key  Description________  Value
+  + sp   pattern              "\\V\\<h\\>"
+  + sh   v:hlsearch value     FALSE
+  + ss   is :s pattern        FALSE
+  + sb   search backward      FALSE
+  + sm   magic value          TRUE
+  + sc   smartcase value      TRUE
+  + sl   has line offset      FALSE
+  + se   place cursor at end  FALSE
+  + so   offset value         0
+  + su   is last used         TRUE
+Replacement string with timestamp 2020-11-16T14:08:58:
+  @ Description__________  Value
+  - :s replacement string  ""
+Local mark with timestamp 2020-12-07T21:53:53:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/.local/share/nvim/shada/main.shada"
+  + n    name         '"'
+  + l    line number  1
+  + c    column       0
+Local mark with timestamp 2020-12-07T21:53:41:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/.local/share/nvim/shada/main.shada"
+  + n    name         '.'
+  + l    line number  2
+  + c    column       0
+Change with timestamp 2020-12-07T21:53:41:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/.local/share/nvim/shada/main.shada"
+  + l    line number  2
+  + c    column       0
+Local mark with timestamp 2020-12-07T21:49:38:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/.zcompdump-shivani’s MacBook Pro-5.7.1"
+  + n    name         '"'
+  + l    line number  81
+  + c    column       0
+Change with timestamp 2020-11-22T12:53:28:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/.zshrc"
+  + l    line number  133
+  + c    column       0
+Change with timestamp 2020-11-22T12:53:28:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/.zshrc"
+  + l    line number  132
+  + c    column       0
+Change with timestamp 2020-11-22T12:53:28:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/.zshrc"
+  + l    line number  133
+  + c    column       0
+Local mark with timestamp 2020-12-06T01:32:59:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/homebrew/.github/workflows/tests.yml"
+  + n    name         '"'
+  + l    line number  197
+  + c    column       0
+Local mark with timestamp 2020-12-06T01:32:47:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/homebrew/.github/workflows/docker.yml"
+  + n    name         '"'
+  + l    line number  1
+  + c    column       0
+Local mark with timestamp 2020-12-06T01:30:39:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/homebrew/.editorconfig"
+  + n    name         '"'
+  + l    line number  1
+  + c    column       0
+Local mark with timestamp 2020-12-06T01:27:47:
+  % Key  Description  Value
+  + f    file name    "/Users/shivani/.keras/keras.json"
+  + n    name         '"'
+  + l    line number  1
+  + c    column       0
+History entry with timestamp 2020-10-06T22:24:55:
+  @ Description_  Value
+  - history type  CMD
+  - contents      "!q"
+History entry with timestamp 2020-10-31T14:11:51:
+  @ Description_  Value
+  - history type  CMD
+  - contents      "relative-number"
+History entry with timestamp 2020-10-31T14:11:56:
+  @ Description_  Value
+  - history type  CMD
+  - contents      "number"
+History entry with timestamp 2020-10-31T14:12:18:
+  @ Description_  Value
+  - history type  CMD
+  - contents      "relative-numbering"
+History entry with timestamp 2020-11-14T19:31:43:
+  @ Description_  Value
+  - history type  CMD
+  - contents      "i"
+History entry with timestamp 2020-11-20T00:25:47:
+  @ Description_  Value
+  - history type  CMD
+  - contents      "w"
+History entry with timestamp 2020-11-29T16:34:07:
+  @ Description_  Value
+  - history type  CMD
+  - contents      "WQ"
+History entry with timestamp 2020-12-06T02:08:32:
+  @ Description_  Value
+  - history type  CMD
+  - contents      "wq"
+History entry with timestamp 2020-12-07T21:53:53:
+  @ Description_  Value
+  - history type  CMD
+  - contents      "q"
+History entry with timestamp 2020-11-16T14:08:58:
+  @ Description_  Value
+  - history type  SEARCH
+  - contents      "@$"
+  - separator     '\0'
