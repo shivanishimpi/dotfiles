@@ -7,7 +7,7 @@
 - `homebrew`
 - `oh-my-zsh`
 - create the `locate` database
-
+- all `homebrew` packages
 
 ```
 $ chmod +x setup-cmds.sh
