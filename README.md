@@ -3,12 +3,11 @@
 
 
 ## Installations
-- `homebrew`
-```
-$ mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew
-```
 
+- `homebrew`
 - `oh-my-zsh`
+
 ```
-$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+$ chmod +x setup-cmds.sh
+$ ./setup-cmds.sh
 ```
