@@ -18,6 +18,7 @@ gcc
 gd
 gdbm
 gettext
+gh
 ghostscript
 gl2ps
 glib
